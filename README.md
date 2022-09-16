@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ubaid-Asim12
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Jira and Latest Technologies like FLutter
+- 🌱 I’m currently learning Jira and Latest Technologies like Flutter
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me on ubaiddevsinn@gmail.com
 
